@@ -1,7 +1,7 @@
 name: Mazana
 favicon: null
-layout_spectrum: 0.6042545593809336
-typography_spectrum: 0.7615907415747643
+layout_spectrum: 0
+typography_spectrum: 0.66159
 cta:
   domain: null
   bucket: null
